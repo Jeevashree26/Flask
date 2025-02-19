@@ -1,5 +1,6 @@
-Flask==2.3.2
+flask
 Flask-PyMongo==2.3.0
-flask-jwt-extended==4.4.4
-pymongo==4.3.3
-Werkzeug
+flask-jwt-extended
+pymongo
+Flask==2.1.1
+Werkzeug==2.1.1
