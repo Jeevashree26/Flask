@@ -1,5 +1,5 @@
 from flask import Flask,jsonify,request
-from pyngrok import ngrok
+# from pyngrok import ngrok
 import pymongo
 from werkzeug.security import generate_password_hash, check_password_hash
 from flask_jwt_extended import create_access_token, jwt_required, get_jwt_identity,JWTManager
