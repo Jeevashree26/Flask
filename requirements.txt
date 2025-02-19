@@ -1,6 +1,6 @@
-flask
-Flask-PyMongo==2.3.0
+Flask
+Flask-PyMongo
 flask-jwt-extended
 pymongo
-Flask==2.1.1
-Werkzeug==2.1.1
+Werkzeug
+--no-cache-dir
